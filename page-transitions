@@ -1,4 +1,4 @@
-<script>
+
   // Детальный отладчик для проблемы hover анимации
   window.hoverDebugger = {
     logs: [],
@@ -1592,4 +1592,4 @@
   } else {
     initializePage()
   }
-</script>
+
