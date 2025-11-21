@@ -1,4 +1,4 @@
-console.log("neew")
+console.log("neew2")
 // Детальный отладчик для проблемы hover анимации
 window.hoverDebugger = {
   logs: [],
@@ -1179,7 +1179,7 @@ if (isDesktop()) {
         afterEnter() {
           // refresh the parallax based on new page content
           // parallax.refresh()
-          reorganizeAndScrollProjectItems()
+          reorganizeAndScrollProjectItems.refresh()
         },
       },
     ],
