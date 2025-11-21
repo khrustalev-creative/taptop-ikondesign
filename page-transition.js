@@ -1,4 +1,4 @@
-console.log("neew2")
+console.log("neew3")
 // Детальный отладчик для проблемы hover анимации
 window.hoverDebugger = {
   logs: [],
