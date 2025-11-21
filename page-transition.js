@@ -1171,7 +1171,7 @@ if (isDesktop()) {
     ],
     views: [
       {
-        namespace: "product",
+        namespace: "catalog",
         beforeEnter() {
           // reorganizeAndScrollProjectItems.update()
         },
